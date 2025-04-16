@@ -1,0 +1,1 @@
+cli cutrecillo en python 
